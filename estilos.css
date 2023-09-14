@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.navbar {
+    background-color: darkcyan;
+}
+
+.collapse {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nav-link { 
+    color: whitesmoke !important;
+}
+
+.nav-item:hover {
+    background-color:darkblue;
+    border-radius: 5px;
+}
+
+.jumbotron{
+    background-color:cadetblue;
+    background-image: url(img/rollingstart.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.button1:hover{
+    background-color: darkblue;
+}
+
+.button1{
+    border: 5 px solid rgba(0, 49, 139, 0.62);
+}
+
+.feat{
+    background-color: black;
+    color: whitesmoke;
+    border: 3px solid cyan;
+    text-align: center;
+}
+
+.feat span{
+    font-size: 48px;
+}
+
+.feat h3{
+    color: aqua;
+}
+
+footer{
+    background-color: cyan;
+}
+
+body {
+    background-color: darkslategray;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 48px;
+    text-shadow: 2px 2px 5px black;
+}
+
+h2{ 
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 42px;
+    text-shadow: 2px 2px 5px black;}
+
+h3{
+    color: whitesmoke;
+    text-align:justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    text-shadow: 2px 2px 5px black;
+}
+
+h4{
+    color:whitesmoke;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    text-shadow: 2px 2px 5px black;
+}
+
+h5{
+    color:whitesmoke;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    text-shadow: 2px 2px 5px black;
+}
+
+.nleft{
+    height: 450px;
+    background-image:url(img/pits.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.banner1 {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: darkcyan;
+}
+
+.menubanner {
+    list-style-type: none;
+    background-color: darkcyan;
+    display: inline-block;
+    margin: 12px;
+    margin-block: 12px;
+}
+
+.encabezado {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 46px;
+}
+
+.titulo {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.subtitulo {
+    color:whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    text-shadow: 2px 2px 5px black;
+}
+
+.intro {
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+    text-shadow: 2px 2px 5px black;
+}
+
+.descripcion {
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.titulo2 {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 40px;
+}
+
+.intro2 {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+    font-style: italic;
+}
+
+.tituloarticulo {
+    color: aliceblue;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-style: italic;
+}
+
+.comentario {
+    color: darkgray;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+}
+
+.cuerpoarticulo {
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.tituloimagen {
+    color: whitesmoke;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 28px;
+}
+
+.imagenes {
+    height: 720px;
+    width: 1280px;
+    border: solid crimson 4px;
+}
+
+.links {
+    text-decoration: none;
+    color: whitesmoke;
+    margin-right: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 14px;
+}
+
+.redes {
+    color: whitesmoke;
+}
+
+.mapa {
+    border: solid crimson 4px;
+}
+
+.banner2 {
+    overflow: hidden;
+    background-color: darkcyan;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.marca {
+    color: whitesmoke;
+    text-align: end;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+}
+
+.sociales { 
+    color: whitesmoke;
+    text-align: start;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 12px;
+}
+
+.aviso {
+    color: whitesmoke;
+    text-align: justify;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+}
