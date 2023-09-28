@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #005892;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.navbar {
+  background-color: #0082F1;
+}
+
+.collapse {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.nav-link {
+  color: #FCF7FF !important;
+}
+
+.nav-item:hover {
+  background-color: #494454;
+  border-radius: 6px;
+}
+
+.jumbotron {
+  background-color: #005892;
+  background-image: url(../img/rollingstart.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.button1 {
+  border: 5 px solid #494454 !important;
+}
+.button1:hover {
+  background-color: #2A6672 !important;
+}
+
+footer {
+  background-color: #100C3F;
+  color: #FCF7FF;
+  font-size: 12px;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.feat {
+  background-color: #494454;
+  color: #FCF7FF;
+  border: 3px solid #14DFBD;
+  text-align: center;
+}
+.feat span {
+  font-size: 40px;
+}
+.feat h3 {
+  color: #14DFBD;
+}
+
+h1 {
+  color: #FCF7FF;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 48px;
+  text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h2 {
+  color: #FCF7FF;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 40px;
+  text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h3 {
+  color: #FCF7FF;
+  text-align: justify;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 32px;
+  text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h4 {
+  color: #FCF7FF;
+  text-align: justify;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h5 {
+  color: #FCF7FF;
+  text-align: justify;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 12px;
+  font-style: normal;
+  text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+.nleft {
+  height: 450px;
+  background-image: url(../img/pits.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+.imagenes {
+  border: 6px solid #494454;
+}
+
+/*# sourceMappingURL=estilos.css.map */

@@ -1,0 +1,16 @@
+//Banner
+
+.jumbotron {
+    background-color: $colorbackground;
+    background-image: url(../img/rollingstart.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.button1 {
+    &:hover {
+        background-color: $colorboton !important;
+    }
+    
+    border: 5 px solid $colorenfasis !important;
+}

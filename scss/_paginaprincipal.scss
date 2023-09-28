@@ -1,0 +1,64 @@
+// Página principal
+
+.feat {
+    background-color: $colorgrilla;
+    color: $colorfuente;
+    border: 3px solid $colorborde;
+    text-align: center;
+    
+    span {
+        font-size: $titulo;
+    }
+    h3 {
+        color: $colorborde;
+    }
+}
+
+h1 {
+    color: $colorfuente;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    font-size: $intro;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h2 {
+    color: $colorfuente;
+    text-align: center;
+    font-family: "Ubuntu", sans-serif;
+    font-size: $titulo;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h3 {
+    color: $colorfuente;
+    text-align: justify;
+    font-family: "Ubuntu", sans-serif;
+    font-size: $subtitulo;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h4 {
+    color: $colorfuente;
+    text-align: justify;
+    font-family: "Ubuntu", sans-serif;
+    font-size: $parrafo;
+    font-style: normal;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+h5 {
+    color: $colorfuente;
+    text-align: justify;
+    font-family: "Ubuntu", sans-serif;
+    font-size: $subparrafo;
+    font-style: normal;
+    text-shadow: 2px 2px 6px rgb(0, 0, 0);
+}
+
+.nleft {
+    height: 450px;
+    background-image: url(../img/pits.jpg);
+    background-position: center;
+    background-size: cover;
+}

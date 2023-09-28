@@ -1,0 +1,18 @@
+//Encabezado
+
+.navbar {
+    background-color: $colorseccion;
+}
+
+.collapse {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nav-link {
+    color: $colorfuente !important;
+}
+
+.nav-item:hover {background-color: $colorenfasis;
+    border-radius: 6px;
+}
