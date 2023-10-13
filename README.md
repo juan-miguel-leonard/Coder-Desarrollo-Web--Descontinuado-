@@ -12,6 +12,4 @@ Trabajando en mi proyecto para CoderHouse.
 ---
 [![](https://visitcount.itsvg.in/api?id=juan-miguel-leonard&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-# PreEntrega3-JuanMiguelLeonard
-# PreEntrega3-JuanMiguelLeonard
+
