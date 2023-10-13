@@ -1,5 +1,7 @@
 # 💫 About Me:
-Trabajando en mi proyecto para CoderHouse.
+Trabajando en mi proyecto para CoderHouse. Realizando la entrega final. 
+
+Aún con mucho por aprender. Cuento con poco tiempo pero avanzo --- 
 
 
 # 💻 Tech Stack:
